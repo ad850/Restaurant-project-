@@ -3,8 +3,6 @@ import React from 'react'
 const About = () => {
     return (
         <div id="am">
-       
-           
             <div id="ac" >
                 <h1 style={{ textAlign:"center" }}>Indian restaurants of the 19th century</h1>
                 <p>
@@ -19,11 +17,8 @@ const About = () => {
                     Toward the end of the 19th century, in the gaudy and extravagant era known as la belle époque, the luxurious Maxim’s, on the rue Royale, became the social and culinary centre of Paris. The restaurant temporarily declined after World War I but recovered under new management, to become an outstanding gastronomic shrine.
 
                     France produced many of the world’s finest chefs, including Georges-Auguste Escoffier, who organized the kitchens for the luxury hotels owned by César Ritz, developing the so-called brigade de cuisine, or kitchen team, consisting of highly trained experts each with clearly defined duties. These teams included a chef, or gros bonnet, in charge of the kitchen; a sauce chef, or deputy; an entremettier, in charge of preparation of soups, vegetables, and sweet courses; a rôtisseur to prepare roasts and fried or grilled meats; and the garde manger, in charge of all supplies and cold dishes. In Escoffier’s time, the duties and responsibilities of each functionary were sharply defined, but in modern times, rising labour costs and the need for faster service have broken down such rigidly defined duties. In the kitchens of even the leading modern restaurants, duties at the peak of the dinner-hour preparations are likely to overlap widely, with efficiency maintained amid seeming chaos and confusion.</p>
-
             </div>
-
         </div>
     )
 }
-
 export default About;
