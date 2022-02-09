@@ -8,26 +8,16 @@ import WhatsAppIcon from '@material-ui/icons/WhatsApp';
 const Footer = () => {
     return (
         <div id="footer">
-
-
-
             <div id="cont">
-
                 <span>Conditions of Use ,@2021 Uncle Sam's Kitchen All Rights Reserved.</span>
-
                 <span id="social">
                     <IconButton > <FacebookIcon /></IconButton>
                     <IconButton > <TwitterIcon /></IconButton>
                     <IconButton > <InstagramIcon /></IconButton>
                     <IconButton > <WhatsAppIcon /></IconButton>
                 </span>
-
-
-
             </div>
-
         </div>
     )
 }
-
 export default Footer
